@@ -1,8 +1,8 @@
 # COVID-19-Tableau-Dashboard
 *The Workbook can only be opened with the Tableau Desktop.
 
-*For viewing the dashboard you can visit the link : https://public.tableau.com/profile/radhika.gupta4331#!/vizhome/Book1_15869802169370/Covid-19
+*For viewing the dashboard you can visit the link :  https://lnkd.in/gBZ_eXm
 
-*The COVID.xlsx file fetches data from an API: https://covid.ngaah.id/
+*Data Source : https://opendata.ecdc.europa.eu/covid19/casedistribution/csv
 
 *The Image of the Dashboard is in Covid -19.png
