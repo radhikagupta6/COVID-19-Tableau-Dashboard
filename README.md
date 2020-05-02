@@ -5,4 +5,4 @@
 
 *Data Source : https://opendata.ecdc.europa.eu/covid19/casedistribution/csv
 
-*The Image of the Dashboard is in Covid -19.png
+*The Image of the Dashboard is in Dashboard 1.png
